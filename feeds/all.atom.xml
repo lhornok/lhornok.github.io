@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>My Blog</title><link href="https://lhornok.github.io/" rel="alternate"></link><link href="https://lhornok.github.io/feeds/all.atom.xml" rel="self"></link><id>https://lhornok.github.io/</id><updated>2016-03-25T00:00:00+01:00</updated><entry><title>Pelican on GitLab Pages!</title><link href="https://lhornok.github.io/pelican-on-gitlab-pages.html" rel="alternate"></link><published>2016-03-25T00:00:00+01:00</published><updated>2016-03-25T00:00:00+01:00</updated><author><name>Laszlo Hornok</name></author><id>tag:lhornok.github.io,2016-03-25:/pelican-on-gitlab-pages.html</id><summary type="html">&lt;p&gt;This site is hosted on GitLab Pages!
+The source code of this site is at https://gitlab.com/pages/pelican.
+Learn about GitLab Pages at https://pages.gitlab.io.&lt;/p&gt;</summary><content type="html">&lt;p&gt;This site is hosted on GitLab Pages!
+The source code of this site is at https://gitlab.com/pages/pelican.
+Learn about GitLab Pages at https://pages.gitlab.io.&lt;/p&gt;</content><category term="pelican"></category><category term="gitlab"></category></entry></feed>
