@@ -16,7 +16,6 @@
 &lt;p&gt;GE &lt;a href="https://www.ge.ch"&gt;https://www.ge.ch&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Radio Télévision Suisse RTS &lt;a href="https://www.rts.ch/"&gt;https://www.rts.ch/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Wiki &lt;a href="https://gitlab.com/lhornok/projet04/-/wikis/home"&gt;https://gitlab.com/lhornok/projet04/-/wikis/home&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;LAPIN DE PÂQUES&lt;/p&gt;
 &lt;hr&gt;</content><category term="pelican"></category><category term="gitlab"></category></entry><entry><title>Pelican on GitLab Pages!</title><link href="https://lhornok.github.io/pelican-on-gitlab-pages.html" rel="alternate"></link><published>2016-03-25T00:00:00+01:00</published><updated>2016-03-25T00:00:00+01:00</updated><author><name>Laszlo Hornok</name></author><id>tag:lhornok.github.io,2016-03-25:/pelican-on-gitlab-pages.html</id><content type="html">&lt;p&gt;This site is hosted on GitLab Pages!&lt;/p&gt;
 &lt;p&gt;The source code of this site is at &lt;a href="https://gitlab.com/pages/pelican"&gt;https://gitlab.com/pages/pelican&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Learn about GitLab Pages at &lt;a href="https://pages.gitlab.io"&gt;https://pages.gitlab.io&lt;/a&gt;.&lt;/p&gt;
